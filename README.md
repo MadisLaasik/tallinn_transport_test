@@ -1,5 +1,4 @@
-Valisin variant C alt lehekülje https://transport.tallinn.ee/. Programmiks võtsin Selenium Visual Studio ja programmeerimiskeeleks C#. Kuna varasem kokkupuude oli ainult Selenium IDE sammude salvestamisega ja nende tagasimängimisega, siis pidin värskelt õppima kasutama Visual Studio programmi. 
-Visual Studios programmis on automatiseeritud järgmised testisammud:
+Valisin variant C alt lehekülje https://transport.tallinn.ee/. Programmiks võtsin Selenium Visual Studio ja programmeerimiskeeleks C#. Kuna varasem kokkupuude oli ainult Selenium IDE sammude salvestamisega ja nende tagasimängimisega, siis pidin värskelt õppima kasutama Visual Studio programmi. Visual Studios programmis on automatiseeritud järgmised testisammud:
 Google Chrome kasutades liikuda https://transport.tallinn.ee/ leheküljele.
 Aktiveerida "Troll" nimeline menüü valik.
 Aktiveerida "5 Mustamäe-Balti jaam" menüü valik.
